@@ -8,7 +8,7 @@ designed. Please note this example uses and requires Java 8 to work.............
 
 
 Running the example from the command line
--------------------
+---------------------
 ```
 $ mvn jetty:run
 ```
